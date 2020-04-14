@@ -1,1 +1,0 @@
-# Python-Script-to-import-Distributed-Firewall-Rules-recommended-by-vRNI-to-VMC-on-AWS-SDDC
