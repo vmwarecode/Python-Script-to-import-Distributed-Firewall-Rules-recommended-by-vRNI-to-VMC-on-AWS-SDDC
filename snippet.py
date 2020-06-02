@@ -79,7 +79,7 @@ class VMCRuleImport():
         if targettype == '2':
             self.vmc = True
             if self.verbose:
-                print("Your target destination for rules will be NSX-T")
+                print("Your target destination for rules will be VMC")
         if targettype != '1' and targettype != '2':
             print("Invalid argument, Please input 1 for NSX-T or 2 for NSX on VMC")
             sys.exit(1)
